@@ -22,19 +22,19 @@
     "url": "https://files.pysio.online/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/files.pysio.online.ico",
     "slug": "pysio-home-files",
-    "status": "up",
-    "uptime": "98.19%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.19%",
-    "uptimeYear": "98.19%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 797,
     "timeDay": 797,
     "timeWeek": 797,
     "timeMonth": 797,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2024-11-03": 14
+      "2024-11-03": 2
     }
   },
   {
