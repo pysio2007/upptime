@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1890,
-    "timeDay": 1890,
-    "timeWeek": 1890,
-    "timeMonth": 1890,
-    "timeYear": 1890,
+    "time": 1569,
+    "timeDay": 1569,
+    "timeWeek": 1569,
+    "timeMonth": 1569,
+    "timeYear": 1569,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://files.pysio.online/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/files.pysio.online.ico",
     "slug": "pysio-home-files",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 826,
     "timeDay": 826,
     "timeWeek": 826,
     "timeMonth": 826,
     "timeYear": 826,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-03": 0
+    }
   },
   {
     "name": "Blog Api",
