@@ -9,6 +9,8 @@ sites:
     url: https://files.pysio.online/dashboard
   - name: Blog Api
     url: https://blogapi.pysio.online/
+  - name: Random Image Api
+    url: https://randomimg.pysio.online/output/123871517_p0_master1200.webp
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
