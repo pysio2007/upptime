@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.pysio.online.ico",
     "slug": "pysio-home-files",
     "status": "up",
-    "uptime": "88.60%",
-    "uptimeDay": "84.78%",
-    "uptimeWeek": "86.59%",
-    "uptimeMonth": "88.60%",
-    "uptimeYear": "88.60%",
+    "uptime": "88.78%",
+    "uptimeDay": "90.03%",
+    "uptimeWeek": "86.70%",
+    "uptimeMonth": "88.78%",
+    "uptimeYear": "88.78%",
     "time": 925,
     "timeDay": 918,
     "timeWeek": 940,
     "timeMonth": 925,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2024-11-12": 97,
+      "2024-11-12": 86,
       "2024-11-11": 123,
       "2024-11-10": 294,
       "2024-11-09": 175,
@@ -51,9 +51,9 @@
     "url": "https://blogapi.pysio.online/",
     "icon": "https://icons.duckduckgo.com/ip3/blogapi.pysio.online.ico",
     "slug": "blog-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -62,7 +62,9 @@
     "timeWeek": 675,
     "timeMonth": 497,
     "timeYear": 497,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-12": 0
+    }
   },
   {
     "name": "Random Image Api",
