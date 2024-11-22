@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.pysio.online.ico",
     "slug": "pysio-home-files",
     "status": "up",
-    "uptime": "88.06%",
-    "uptimeDay": "83.09%",
-    "uptimeWeek": "85.67%",
-    "uptimeMonth": "88.06%",
-    "uptimeYear": "88.06%",
+    "uptime": "88.00%",
+    "uptimeDay": "88.13%",
+    "uptimeWeek": "85.70%",
+    "uptimeMonth": "88.00%",
+    "uptimeYear": "88.00%",
     "time": 972,
-    "timeDay": 1135,
+    "timeDay": 1151,
     "timeWeek": 1043,
     "timeMonth": 972,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2024-11-21": 226,
+      "2024-11-21": 223,
       "2024-11-20": 217,
       "2024-11-19": 324,
       "2024-11-18": 112,
@@ -51,7 +51,7 @@
       "2024-11-07": 274,
       "2024-11-06": 126,
       "2024-11-05": 206,
-      "2024-11-04": 41
+      "2024-11-04": 75
     }
   },
   {
