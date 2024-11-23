@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 906,
-    "timeDay": 2480,
-    "timeWeek": 1172,
-    "timeMonth": 906,
-    "timeYear": 906,
+    "time": 878,
+    "timeDay": 171,
+    "timeWeek": 881,
+    "timeMonth": 878,
+    "timeYear": 878,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://files.pysio.online/93AtHome/centerStatistics",
     "icon": "https://icons.duckduckgo.com/ip3/files.pysio.online.ico",
     "slug": "pysio-home-files",
-    "status": "up",
-    "uptime": "89.03%",
-    "uptimeDay": "80.53%",
-    "uptimeWeek": "86.41%",
-    "uptimeMonth": "89.03%",
-    "uptimeYear": "89.03%",
-    "time": 972,
-    "timeDay": 901,
-    "timeWeek": 1039,
-    "timeMonth": 972,
-    "timeYear": 972,
+    "status": "down",
+    "uptime": "89.11%",
+    "uptimeDay": "80.52%",
+    "uptimeWeek": "86.45%",
+    "uptimeMonth": "89.11%",
+    "uptimeYear": "89.11%",
+    "time": 971,
+    "timeDay": 909,
+    "timeWeek": 1040,
+    "timeMonth": 971,
+    "timeYear": 971,
     "dailyMinutesDown": {
       "2024-11-23": 281,
       "2024-11-22": 43,
@@ -51,7 +51,7 @@
       "2024-11-09": 175,
       "2024-11-08": 80,
       "2024-11-07": 274,
-      "2024-11-06": 100
+      "2024-11-06": 84
     }
   },
   {
@@ -65,11 +65,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 584,
-    "timeDay": 696,
-    "timeWeek": 670,
-    "timeMonth": 584,
-    "timeYear": 584,
+    "time": 590,
+    "timeDay": 762,
+    "timeWeek": 673,
+    "timeMonth": 590,
+    "timeYear": 590,
     "dailyMinutesDown": {}
   },
   {
@@ -83,11 +83,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 192,
+    "time": 117,
+    "timeDay": 81,
     "timeWeek": 158,
-    "timeMonth": 119,
-    "timeYear": 119,
+    "timeMonth": 117,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   }
 ]
