@@ -11,6 +11,10 @@ sites:
     url: https://blogapi.pysio.online/
   - name: Random Image Api
     url: https://randomimg.pysio.online/output/123871517_p0_master1200.webp
+  - name: DoH (China)
+    url: https://doh.pysio.online/
+  - name: DoH (Global)
+    url: https://dohk.pysio.online/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
