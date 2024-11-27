@@ -22,12 +22,12 @@
     "url": "https://files.pysio.online/93AtHome/centerStatistics",
     "icon": "https://icons.duckduckgo.com/ip3/files.pysio.online.ico",
     "slug": "pysio-home-files",
-    "status": "up",
-    "uptime": "90.16%",
+    "status": "down",
+    "uptime": "90.53%",
     "uptimeDay": "84.89%",
-    "uptimeWeek": "85.08%",
-    "uptimeMonth": "90.16%",
-    "uptimeYear": "90.16%",
+    "uptimeWeek": "85.07%",
+    "uptimeMonth": "90.53%",
+    "uptimeYear": "90.53%",
     "time": 974,
     "timeDay": 898,
     "timeWeek": 1019,
@@ -51,8 +51,7 @@
       "2024-11-13": 157,
       "2024-11-12": 118,
       "2024-11-11": 123,
-      "2024-11-10": 294,
-      "2024-11-09": 12
+      "2024-11-10": 182
     }
   },
   {
