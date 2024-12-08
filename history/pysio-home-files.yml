@@ -1,7 +1,7 @@
 url: https://files.pysio.online/93AtHome/centerStatistics
-status: up
-code: 200
-responseTime: 2924
-lastUpdated: 2024-12-07T23:19:40.399Z
+status: down
+code: 502
+responseTime: 16839
+lastUpdated: 2024-12-08T09:52:10.570Z
 startTime: 2024-11-03T08:38:40.074Z
 generator: Upptime <https://github.com/upptime/upptime>
