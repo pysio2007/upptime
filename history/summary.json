@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.pysio.online.ico",
     "slug": "pysio-home-files",
     "status": "up",
-    "uptime": "90.81%",
+    "uptime": "90.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "82.74%",
-    "uptimeMonth": "88.60%",
-    "uptimeYear": "90.81%",
+    "uptimeMonth": "88.83%",
+    "uptimeYear": "90.99%",
     "time": 1024,
     "timeDay": 852,
     "timeWeek": 2974,
-    "timeMonth": 1078,
+    "timeMonth": 1085,
     "timeYear": 1024,
     "dailyMinutesDown": {
       "2024-12-09": 892,
@@ -70,7 +70,7 @@
     "time": 619,
     "timeDay": 608,
     "timeWeek": 673,
-    "timeMonth": 676,
+    "timeMonth": 664,
     "timeYear": 619,
     "dailyMinutesDown": {}
   },
@@ -97,9 +97,9 @@
     "url": "https://doh.pysio.online/",
     "icon": "https://icons.duckduckgo.com/ip3/doh.pysio.online.ico",
     "slug": "do-h-china",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,7 +108,9 @@
     "timeWeek": 1055,
     "timeMonth": 1010,
     "timeYear": 1010,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   },
   {
     "name": "DoH (Global)",
