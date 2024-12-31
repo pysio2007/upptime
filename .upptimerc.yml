@@ -15,6 +15,10 @@ sites:
     url: https://doh.pysio.online/
   - name: DoH (Global)
     url: https://dohk.pysio.online/
+  - name: Pysio-HomeLab
+    check: "tcp-ping"
+    url: home.pysio.online
+    port: 8006
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
