@@ -64,19 +64,19 @@
     "url": "https://blogapi.pysio.online/",
     "icon": "https://icons.duckduckgo.com/ip3/blogapi.pysio.online.ico",
     "slug": "blog-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 690,
-    "timeDay": 657,
-    "timeWeek": 689,
-    "timeMonth": 787,
-    "timeYear": 690,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 691,
+    "timeDay": 690,
+    "timeWeek": 692,
+    "timeMonth": 785,
+    "timeYear": 691,
     "dailyMinutesDown": {
-      "2025-01-01": 0
+      "2025-01-01": 18
     }
   },
   {
