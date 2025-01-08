@@ -26,7 +26,7 @@
     "uptime": "93.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.36%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "93.48%",
     "time": 992,
     "timeDay": 412,
@@ -158,19 +158,19 @@
     "url": "https://api.starair.ltd/randomImage?requestType=redirect",
     "icon": "https://icons.duckduckgo.com/ip3/api.starair.ltd.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "6.92%",
-    "uptimeDay": "6.92%",
-    "uptimeWeek": "6.92%",
-    "uptimeMonth": "6.92%",
-    "uptimeYear": "6.92%",
-    "time": 858,
-    "timeDay": 858,
-    "timeWeek": 858,
-    "timeMonth": 858,
-    "timeYear": 858,
+    "status": "up",
+    "uptime": "1.06%",
+    "uptimeDay": "1.06%",
+    "uptimeWeek": "1.06%",
+    "uptimeMonth": "1.06%",
+    "uptimeYear": "1.06%",
+    "time": 1019,
+    "timeDay": 1019,
+    "timeWeek": 1019,
+    "timeMonth": 1019,
+    "timeYear": 1019,
     "dailyMinutesDown": {
-      "2025-01-08": 0
+      "2025-01-08": 18
     }
   }
 ]
