@@ -19,6 +19,8 @@ sites:
     check: "tcp-ping"
     url: home.pysio.online
     port: 8006
+  - name: 猫猫的随机图片API
+    url: https://api.starair.ltd/randomImage?requestType=redirect
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
