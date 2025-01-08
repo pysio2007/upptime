@@ -1,7 +1,7 @@
 url: https://api.starair.ltd/randomImage?requestType=redirect
-status: down
-code: 500
-responseTime: 858
-lastUpdated: 2025-01-08T10:04:57.221Z
+status: up
+code: 200
+responseTime: 1180
+lastUpdated: 2025-01-08T10:22:49.429Z
 startTime: 2025-01-08T10:04:55.931Z
 generator: Upptime <https://github.com/upptime/upptime>
