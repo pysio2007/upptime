@@ -21,7 +21,7 @@ sites:
     port: 8006
   - name: Cat Blog
     url: https://blog.starair.ltd/
-  - name: Cat RandomAPI Api
+  - name: Cat RandomAPI
     url: https://api.starair.ltd/randomImage?requestType=redirect
 
 status-website:
