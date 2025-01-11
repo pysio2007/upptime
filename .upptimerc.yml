@@ -27,6 +27,10 @@ sites:
     check: "tcp-ping"
     url: bgp.pysio.online
     port: 8000
+ -  name: Pysio-Home-BGP
+    check: "tcp-ping"
+    url: home.pysio.online
+    port: 8000
   - name: Cat Blog
     url: https://blog.starair.ltd/
   - name: Cat RandomAPI
