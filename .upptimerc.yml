@@ -22,7 +22,11 @@ sites:
   - name: Pysio-SG-DN42
     check: "tcp-ping"
     url: dn42.pysio.online
-    port: 22
+    port: 8000
+  - name: Pysio-IPV6-BGP
+    check: "tcp-ping"
+    url: bgp.pysio.online
+    port: 8000
   - name: Cat Blog
     url: https://blog.starair.ltd/
   - name: Cat RandomAPI
