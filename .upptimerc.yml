@@ -19,6 +19,10 @@ sites:
     check: "tcp-ping"
     url: home.pysio.online
     port: 8006
+  - name: Pysio-SG-DN42
+    check: "tcp-ping"
+    url: dn42.pysio.online
+    port: 22
   - name: Cat Blog
     url: https://blog.starair.ltd/
   - name: Cat RandomAPI
