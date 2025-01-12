@@ -12,7 +12,7 @@ sites:
   - name: Bitwarden
     url: https://bitwarden.pysio.online/
   - name: Random Image Api
-    url: https://randomimg.pysio.online/output/123871517_p0_master1200.webp
+    url: https://blogapi.pysio.online/random_image
   - name: DoH (China)
     url: https://doh.pysio.online/
   - name: DoH (Global)
