@@ -9,6 +9,8 @@ sites:
     url: https://files.pysio.online/files/Pysio-Imges/20241005215409.png
   - name: Blog Api
     url: https://blogapi.pysio.online/
+  - name: Bitwarden
+    url: https://bitwarden.pysio.online/
   - name: Random Image Api
     url: https://randomimg.pysio.online/output/123871517_p0_master1200.webp
   - name: DoH (China)
