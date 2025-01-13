@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Pysio's Home
-    url: https://www.pysio.online/
+    url: https://www.pysio.online/sitemap.xml
   - name: Pysio Home Files
     url: https://files.pysio.online/files/Pysio-Imges/20241005215409.png
   - name: Blog Api
