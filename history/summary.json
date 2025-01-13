@@ -6,18 +6,16 @@
     "slug": "pysio-s-home",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
     "timeDay": 398,
     "timeWeek": 202,
     "timeMonth": 165,
     "timeYear": 372,
-    "dailyMinutesDown": {
-      "2025-01-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pysio Home Files",
@@ -233,18 +231,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.starair.ltd.ico",
     "slug": "cat-blog",
     "status": "down",
-    "uptime": "77.61%",
-    "uptimeDay": "31.69%",
-    "uptimeWeek": "77.61%",
-    "uptimeMonth": "77.61%",
-    "uptimeYear": "77.61%",
+    "uptime": "77.60%",
+    "uptimeDay": "31.67%",
+    "uptimeWeek": "77.60%",
+    "uptimeMonth": "77.60%",
+    "uptimeYear": "77.60%",
     "time": 1810,
     "timeDay": 1369,
     "timeWeek": 1810,
     "timeMonth": 1810,
     "timeYear": 1810,
     "dailyMinutesDown": {
-      "2025-01-13": 726,
+      "2025-01-13": 727,
       "2025-01-12": 257
     }
   },
