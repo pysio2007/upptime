@@ -35,9 +35,13 @@ sites:
     port: 8000
   - name: Cat Blog
     url: https://blog.starair.ltd/
+    assignees:
+      - stuffed-cat
   - name: Cat RandomAPI
     url: https://api.starair.ltd/randomImage?requestType=redirect
-
+    assignees:
+      - stuffed-cat
+      
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
