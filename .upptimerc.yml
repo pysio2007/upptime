@@ -33,6 +33,14 @@ sites:
     check: "tcp-ping"
     url: home.pysio.online
     port: 8000
+  - name: Pysio-HK-SPEED
+    url: https://hkspeed.pysio.online/
+    expectedStatusCodes:
+      - 400
+  - name: Pysio-JP-SPEED
+    url: https://jpspeed.pysio.online/
+    expectedStatusCodes:
+      - 400
   - name: Cat Blog
     url: https://blog.starair.ltd/
     assignees:
