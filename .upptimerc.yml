@@ -46,6 +46,123 @@ sites:
     expectedStatusCodes:
       - 400
       
+  # 新增的MCIM监控站点
+  - name: MCIM-root
+    url: https://mod.mcimirror.top
+    method: GET
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: MCIM-docs
+    url: https://mod.mcimirror.top/docs
+    method: GET
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Curseforge Search"
+    url: https://mod.mcimirror.top/curseforge/v1/mods/search?gameId=432&pageSize=50
+    method: GET
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Curseforge Mod"
+    url: https://mod.mcimirror.top/curseforge/v1/mods/238222
+    method: GET
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Curseforge Single File"
+    url: https://mod.mcimirror.top/curseforge/v1/mods/256717/files/2666198
+    method: GET
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Curseforge Files"
+    url: https://mod.mcimirror.top/curseforge/v1/mods/238222/files
+    method: GET
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Curseforge Fingerprints"
+    url: https://mod.mcimirror.top/curseforge/v1/fingerprints
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"fingerprints": [1290884162]}'
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Curseforge Fingerprints 432"
+    url: https://mod.mcimirror.top/curseforge/v1/fingerprints/432
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"fingerprints": [1290884162]}'
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Modrinth Search"
+    url: https://mod.mcimirror.top/modrinth/v2/search?offset=0&limit=10&index=relevance
+    method: GET
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Modrinth Project"
+    url: https://mod.mcimirror.top/modrinth/v2/project/sodium-extra
+    method: GET
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Modrinth Versions"
+    url: https://mod.mcimirror.top/modrinth/v2/project/sodium-extra/version
+    method: GET
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Modrinth Single Version"
+    url: https://mod.mcimirror.top/modrinth/v2/version/3JJvf9Kn
+    method: GET
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Modrinth hash"
+    url: https://mod.mcimirror.top/modrinth/v2/version_file/acac3670ee25cc10ed63136e5dd3b792acd13595
+    method: GET
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Modrinth Single File Update"
+    url: https://mod.mcimirror.top/modrinth/v2/version_file/3257d1fe02c9f7710feec955d4e91bd1de69bbe930a3779602ea7c78920ca1f9cef3c4450158cabaddc330d2d4a96a2558d8f136c770b2657886797f2452eb24/update?algorithm=sha512
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"loaders": ["fabric"], "game_versions": ["1.20.1"]}'
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Modrinth Files Update"
+    url: https://mod.mcimirror.top/modrinth/v2/version_files/update
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"hashes": ["50ef600fe32e16732482a913160c09fe4d2c925c", "109cc66669151097838c389b8338c505787d95af"], "algorithm": "sha1", "loaders": ["fabric"], "game_versions": ["1.20.3"]}'
+    expectedStatusCodes: [200]
+    checkInterval: 300
+
+  - name: "MCIM-Modrinth file cdn"
+    url: https://mod.mcimirror.top/data/P7dR8mSH/versions/Y0cpssyN/fabric-api-0.100.6%2B1.21.jar
+    method: GET
+    expectedStatusCodes: [307, 200]
+    checkInterval: 300
+    followRedirects: true
+
+  - name: "MCIM-Curseforge file cdn"
+    url: https://mod.mcimirror.top/files/5106/178/jei-1.19.2-forge-11.6.0.1019.jar
+    method: GET
+    expectedStatusCodes: [307, 200]
+    checkInterval: 300
+    followRedirects: true
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
