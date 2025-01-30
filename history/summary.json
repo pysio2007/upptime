@@ -451,19 +451,19 @@
     "url": "https://mod.mcimirror.top/modrinth/v2/search?offset=0&limit=10&index=relevance",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-search",
-    "status": "down",
-    "uptime": "97.62%",
-    "uptimeDay": "97.62%",
-    "uptimeWeek": "97.62%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "97.62%",
-    "time": 713,
-    "timeDay": 713,
-    "timeWeek": 713,
-    "timeMonth": 713,
-    "timeYear": 713,
+    "status": "up",
+    "uptime": "37.45%",
+    "uptimeDay": "37.45%",
+    "uptimeWeek": "37.45%",
+    "uptimeMonth": "37.45%",
+    "uptimeYear": "37.45%",
+    "time": 614,
+    "timeDay": 614,
+    "timeWeek": 614,
+    "timeMonth": 614,
+    "timeYear": 614,
     "dailyMinutesDown": {
-      "2025-01-30": 0
+      "2025-01-30": 20
     }
   },
   {
