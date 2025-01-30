@@ -13,6 +13,10 @@ sites:
     url: https://bitwarden.pysio.online/
   - name: Random Image Api
     url: https://blogapi.pysio.online/random_image
+  - name: Minio
+    url: https://minio.pysio.online/
+  - name: Minio-API
+    url: https://minioapi.pysio.online/randomimg/02e742e30d5ea4cb4a91a93b0b3ad17b.webp
   - name: DoH (China)
     url: https://doh.pysio.online/
   - name: DoH (Global)
