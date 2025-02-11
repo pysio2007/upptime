@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.pysio.online.ico",
     "slug": "pysio-home-files",
     "status": "up",
-    "uptime": "95.66%",
+    "uptime": "95.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "95.66%",
+    "uptimeYear": "95.67%",
     "time": 915,
     "timeDay": 1151,
     "timeWeek": 1113,
@@ -274,9 +274,9 @@
     "url": "https://hkspeed.pysio.online/",
     "icon": "https://icons.duckduckgo.com/ip3/hkspeed.pysio.online.ico",
     "slug": "pysio-hk-speed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -285,7 +285,9 @@
     "timeWeek": 649,
     "timeMonth": 693,
     "timeYear": 693,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-11": 0
+    }
   },
   {
     "name": "Pysio-JP-SPEED",
