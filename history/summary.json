@@ -13,7 +13,7 @@
     "time": 504,
     "timeDay": 265,
     "timeWeek": 150,
-    "timeMonth": 760,
+    "timeMonth": 786,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2025-02-01": 18
@@ -88,11 +88,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.pysio.online.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.91%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 219,
     "timeDay": 395,
     "timeWeek": 250,
@@ -259,18 +259,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pysio-home-bgp",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.67%",
+    "uptimeDay": "89.55%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 275,
     "timeDay": 259,
     "timeWeek": 243,
     "timeMonth": 276,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-02-12": 0,
+      "2025-02-12": 122,
       "2025-02-11": 28
     }
   },
@@ -625,17 +625,19 @@
     "url": "https://mod.mcimirror.top/files/5106/178/jei-1.19.2-forge-11.6.0.1019.jar",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-file-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2303,
-    "timeDay": 494,
-    "timeWeek": 1673,
-    "timeMonth": 2303,
-    "timeYear": 2303,
-    "dailyMinutesDown": {}
+    "time": 2210,
+    "timeDay": 422,
+    "timeWeek": 1563,
+    "timeMonth": 2210,
+    "timeYear": 2210,
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   }
 ]
