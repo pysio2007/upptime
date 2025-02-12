@@ -146,9 +146,9 @@
     "url": "https://minioapi.pysio.online/randomimg/02e742e30d5ea4cb4a91a93b0b3ad17b.webp",
     "icon": "https://icons.duckduckgo.com/ip3/minioapi.pysio.online.ico",
     "slug": "minio-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -157,7 +157,9 @@
     "timeWeek": 105,
     "timeMonth": 93,
     "timeYear": 93,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   },
   {
     "name": "DoH (China)",
@@ -359,11 +361,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-search",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 1295,
     "timeDay": 1140,
     "timeWeek": 1065,
