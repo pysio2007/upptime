@@ -1,7 +1,7 @@
 url: https://minio.pysio.online/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-17T11:28:03.390Z
+status: up
+code: 200
+responseTime: 115
+lastUpdated: 2025-02-17T11:36:08.026Z
 startTime: 2025-01-30T05:40:21.117Z
 generator: Upptime <https://github.com/upptime/upptime>
