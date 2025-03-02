@@ -1,7 +1,7 @@
 url: https://blogapi.pysio.online/
-status: up
-code: 200
-responseTime: 815
-lastUpdated: 2025-03-01T23:20:02.861Z
+status: down
+code: 502
+responseTime: 753
+lastUpdated: 2025-03-02T10:51:41.246Z
 startTime: 2024-11-03T08:38:41.265Z
 generator: Upptime <https://github.com/upptime/upptime>
