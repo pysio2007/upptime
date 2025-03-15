@@ -11,6 +11,10 @@ sites:
     url: https://blogapi.pysio.online/
   - name: Bitwarden
     url: https://bitwarden.pysio.online/
+  - name: AnyCast WebSite
+    url: http://anycast.ink/
+  - name: Looking Glass WebSite
+    url: http://lg.pysio.online/
   - name: Random Image Api
     url: https://blogapi.pysio.online/random_image
   - name: Minio
