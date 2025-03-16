@@ -21,6 +21,8 @@ sites:
     url: https://minio.pysio.online/
   - name: Minio-API
     url: https://minioapi.pysio.online/randomimg/02e742e30d5ea4cb4a91a93b0b3ad17b.webp
+  - name: 权威 DNS
+    url: https://dns.pysio.online/
   - name: DoH (China)
     url: https://doh.pysio.online/
   - name: DoH (Global)
