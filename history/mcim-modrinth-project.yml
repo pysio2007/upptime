@@ -1,7 +1,7 @@
 url: https://mod.mcimirror.top/modrinth/v2/project/sodium-extra
-status: up
-code: 200
-responseTime: 378
-lastUpdated: 2025-03-15T23:19:08.582Z
+status: down
+code: 429
+responseTime: 320
+lastUpdated: 2025-03-16T03:37:12.962Z
 startTime: 2025-01-30T06:08:01.371Z
 generator: Upptime <https://github.com/upptime/upptime>
