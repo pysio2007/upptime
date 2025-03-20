@@ -1,7 +1,7 @@
 url: https://bitwarden.pysio.online/
-status: down
-code: 403
-responseTime: 79
-lastUpdated: 2025-03-20T14:25:29.088Z
+status: up
+code: 200
+responseTime: 329
+lastUpdated: 2025-03-20T14:42:59.534Z
 startTime: 2025-01-12T18:44:32.912Z
 generator: Upptime <https://github.com/upptime/upptime>
