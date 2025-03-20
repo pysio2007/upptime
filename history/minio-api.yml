@@ -1,7 +1,7 @@
 url: https://minioapi.pysio.online/randomimg/02e742e30d5ea4cb4a91a93b0b3ad17b.webp
-status: up
-code: 200
-responseTime: 67
-lastUpdated: 2025-03-19T23:21:25.006Z
+status: down
+code: 403
+responseTime: 103
+lastUpdated: 2025-03-20T14:25:39.593Z
 startTime: 2025-01-30T05:40:21.847Z
 generator: Upptime <https://github.com/upptime/upptime>
