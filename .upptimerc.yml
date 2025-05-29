@@ -27,8 +27,6 @@ sites:
     url: https://doh.pysio.online/
   - name: DoH (Global)
     url: https://dohk.pysio.online/
-  - name: Pysio-HomeLab
-    url: https://vcsa.pysio.online/
   - name: Pysio-SG-DN42
     check: "tcp-ping"
     url: dn42.pysio.online
