@@ -268,9 +268,9 @@
     "url": "https://doh.pysio.online/",
     "icon": "https://icons.duckduckgo.com/ip3/doh.pysio.online.ico",
     "slug": "do-h-china",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -280,6 +280,7 @@
     "timeMonth": 976,
     "timeYear": 932,
     "dailyMinutesDown": {
+      "2025-06-10": 0,
       "2025-01-17": 20,
       "2024-12-12": 31
     }
@@ -348,11 +349,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hkspeed.pysio.online.ico",
     "slug": "pysio-hk-speed",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.81%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 971,
     "timeDay": 540,
     "timeWeek": 686,
