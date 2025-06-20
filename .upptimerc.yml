@@ -35,6 +35,22 @@ sites:
     check: "tcp-ping"
     url: bgp.pysio.online
     port: 8000
+  - name: HK-RPKI-Clearnet
+    check: "tcp-ping"
+    url: 84.54.3.249
+    port: 8282
+  - name: HKCN2-RPKI-Clearnet
+    check: "tcp-ping"
+    url: 84.54.3.249
+    port: 8082
+  - name: HK-RPKI-DN42
+    check: "tcp-ping"
+    url: 103.231.12.237
+    port: 8282
+  - name: HKCN2-RPKI-DN42
+    check: "tcp-ping"
+    url: 103.231.12.237
+    port: 8082
   - name: Pysio-HK-SPEED
     url: https://hkspeed.pysio.online/
     expectedStatusCodes:
