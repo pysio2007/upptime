@@ -386,36 +386,40 @@
     "url": "103.231.12.237",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hk-rpki-dn-42",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "89.68%",
+    "uptimeDay": "89.68%",
+    "uptimeWeek": "89.68%",
+    "uptimeMonth": "89.68%",
+    "uptimeYear": "89.68%",
     "time": 150,
     "timeDay": 150,
     "timeWeek": 150,
     "timeMonth": 150,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-20": 2
+    }
   },
   {
     "name": "HKCN2-RPKI-DN42",
     "url": "103.231.12.237",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hkcn-2-rpki-dn-42",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.15%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "97.15%",
+    "uptimeYear": "97.15%",
     "time": 148,
     "timeDay": 148,
     "timeWeek": 148,
     "timeMonth": 148,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-20": 0
+    }
   },
   {
     "name": "Pysio-HK-SPEED",
