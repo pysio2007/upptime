@@ -140,7 +140,7 @@ sites:
     checkInterval: 300
 
   - name: "MCIM-Modrinth hash"
-    url: https://mod.mcimirror.top/modrinth/v2/version_file/acac3670ee25cc10ed63136e5dd3b792acd13595
+    url: https://mod.mcimirror.top/modrinth/v2/version_file/acac3670ee25cc10ed63136e5dd3b792acd13595algorithm=sha1
     method: GET
     expectedStatusCodes: [200]
     checkInterval: 300
