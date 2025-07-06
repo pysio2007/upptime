@@ -338,9 +338,9 @@
     "url": "bgp.pysio.online",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pysio-ipv-6-bgp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -349,7 +349,9 @@
     "timeWeek": 109,
     "timeMonth": 113,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-06": 1
+    }
   },
   {
     "name": "HK-RPKI-Clearnet",
