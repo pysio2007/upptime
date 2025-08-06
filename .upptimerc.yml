@@ -25,15 +25,9 @@ sites:
     url: https://dns.pysio.online/
   - name: DoH (China)
     url: https://doh.pysio.online/
-  - name: DoH (Global)
-    url: https://dohk.pysio.online/
   - name: Pysio-SG-DN42
     check: "tcp-ping"
     url: dn42.pysio.online
-    port: 8000
-  - name: Pysio-IPV6-BGP
-    check: "tcp-ping"
-    url: bgp.pysio.online
     port: 8000
   - name: HK-RPKI-Clearnet
     check: "tcp-ping"
