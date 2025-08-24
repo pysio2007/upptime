@@ -29,19 +29,19 @@
     "url": "https://files.pysio.online/Avatar/z0z0r4.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/files.pysio.online.ico",
     "slug": "pysio-home-files",
-    "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "91.26%",
-    "uptimeWeek": "98.75%",
+    "status": "down",
+    "uptime": "98.27%",
+    "uptimeDay": "91.18%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "98.26%",
+    "uptimeYear": "98.27%",
     "time": 1418,
     "timeDay": 14257,
     "timeWeek": 6907,
     "timeMonth": 3479,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2025-08-24": 126,
+      "2025-08-24": 127,
       "2025-08-16": 27,
       "2025-06-21": 79,
       "2025-06-19": 189,
@@ -72,7 +72,7 @@
       "2024-11-18": 112,
       "2024-11-17": 150,
       "2024-11-16": 170,
-      "2024-11-15": 77
+      "2024-11-15": 39
     }
   },
   {
