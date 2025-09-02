@@ -326,10 +326,10 @@
     "url": "84.54.3.249",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hk-rpki-clearnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
@@ -337,17 +337,19 @@
     "timeWeek": 190,
     "timeMonth": 198,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-02": 2
+    }
   },
   {
     "name": "HK-RPKI-Clearnet",
     "url": "84.54.3.249",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hk-rpki-clearnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
@@ -355,7 +357,9 @@
     "timeWeek": 190,
     "timeMonth": 198,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-02": 2
+    }
   },
   {
     "name": "HKCN2-RPKI-DN42",
