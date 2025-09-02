@@ -326,19 +326,19 @@
     "url": "84.54.3.249",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hk-rpki-clearnet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 195,
-    "timeDay": 216,
+    "timeDay": 209,
     "timeWeek": 190,
     "timeMonth": 198,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-09-02": 2
+      "2025-09-02": 9
     }
   },
   {
@@ -346,19 +346,19 @@
     "url": "84.54.3.249",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hk-rpki-clearnet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 195,
-    "timeDay": 216,
+    "timeDay": 209,
     "timeWeek": 190,
     "timeMonth": 198,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-09-02": 2
+      "2025-09-02": 9
     }
   },
   {
