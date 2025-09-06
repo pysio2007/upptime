@@ -29,18 +29,19 @@
     "url": "https://files.pysio.online/Avatar/z0z0r4.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/files.pysio.online.ico",
     "slug": "pysio-home-files",
-    "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "94.43%",
-    "uptimeWeek": "96.97%",
+    "status": "down",
+    "uptime": "98.22%",
+    "uptimeDay": "94.36%",
+    "uptimeWeek": "96.96%",
     "uptimeMonth": "97.54%",
-    "uptimeYear": "98.21%",
+    "uptimeYear": "98.22%",
     "time": 1773,
     "timeDay": 14665,
     "timeWeek": 7654,
     "timeMonth": 6271,
     "timeYear": 1773,
     "dailyMinutesDown": {
+      "2025-09-06": 1,
       "2025-09-05": 81,
       "2025-09-04": 103,
       "2025-09-02": 33,
@@ -76,7 +77,7 @@
       "2024-11-21": 223,
       "2024-11-20": 217,
       "2024-11-19": 324,
-      "2024-11-18": 112
+      "2024-11-18": 79
     }
   },
   {
@@ -329,19 +330,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hk-rpki-clearnet",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 196,
     "timeDay": 211,
     "timeWeek": 206,
     "timeMonth": 198,
     "timeYear": 196,
-    "dailyMinutesDown": {
-      "2025-09-06": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HK-RPKI-Clearnet",
@@ -349,19 +348,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hk-rpki-clearnet",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 196,
     "timeDay": 211,
     "timeWeek": 206,
     "timeMonth": 198,
     "timeYear": 196,
-    "dailyMinutesDown": {
-      "2025-09-06": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HKCN2-RPKI-DN42",
