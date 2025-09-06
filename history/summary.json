@@ -29,19 +29,19 @@
     "url": "https://files.pysio.online/Avatar/z0z0r4.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/files.pysio.online.ico",
     "slug": "pysio-home-files",
-    "status": "down",
+    "status": "up",
     "uptime": "98.22%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "96.95%",
-    "uptimeMonth": "97.53%",
+    "uptimeDay": "93.74%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "97.51%",
     "uptimeYear": "98.22%",
-    "time": 1747,
-    "timeDay": 13286,
-    "timeWeek": 7188,
-    "timeMonth": 6068,
-    "timeYear": 1747,
+    "time": 1773,
+    "timeDay": 13954,
+    "timeWeek": 7654,
+    "timeMonth": 6271,
+    "timeYear": 1773,
     "dailyMinutesDown": {
-      "2025-09-06": 2,
+      "2025-09-06": 10,
       "2025-09-05": 81,
       "2025-09-04": 103,
       "2025-09-02": 33,
@@ -331,7 +331,7 @@
     "slug": "hk-rpki-clearnet",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -340,9 +340,7 @@
     "timeWeek": 206,
     "timeMonth": 198,
     "timeYear": 196,
-    "dailyMinutesDown": {
-      "2025-09-06": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HK-RPKI-Clearnet",
@@ -351,7 +349,7 @@
     "slug": "hk-rpki-clearnet",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -360,9 +358,7 @@
     "timeWeek": 206,
     "timeMonth": 198,
     "timeYear": 196,
-    "dailyMinutesDown": {
-      "2025-09-06": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HKCN2-RPKI-DN42",
