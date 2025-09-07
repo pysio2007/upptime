@@ -331,9 +331,9 @@
     "slug": "hk-rpki-clearnet",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "83.03%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "99.40%",
+    "uptimeDay": "82.54%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "99.77%",
     "time": 195,
     "timeDay": 193,
@@ -341,7 +341,7 @@
     "timeMonth": 197,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-09-07": 244,
+      "2025-09-07": 251,
       "2025-09-06": 17
     }
   },
@@ -352,9 +352,9 @@
     "slug": "hk-rpki-clearnet",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "83.03%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "99.40%",
+    "uptimeDay": "82.54%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "99.77%",
     "time": 195,
     "timeDay": 193,
@@ -362,7 +362,7 @@
     "timeMonth": 197,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2025-09-07": 244,
+      "2025-09-07": 252,
       "2025-09-06": 17
     }
   },
