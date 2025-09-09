@@ -289,7 +289,7 @@
     "slug": "do-h-china",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "86.83%",
+    "uptimeDay": "87.51%",
     "uptimeWeek": "87.06%",
     "uptimeMonth": "97.02%",
     "uptimeYear": "99.65%",
@@ -333,8 +333,8 @@
     "slug": "hk-rpki-clearnet",
     "status": "down",
     "uptime": "98.11%",
-    "uptimeDay": "30.87%",
-    "uptimeWeek": "77.97%",
+    "uptimeDay": "30.92%",
+    "uptimeWeek": "77.98%",
     "uptimeMonth": "94.93%",
     "uptimeYear": "98.11%",
     "time": 197,
@@ -343,7 +343,7 @@
     "timeMonth": 198,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-09-09": 929,
+      "2025-09-09": 927,
       "2025-09-08": 1023,
       "2025-09-07": 254,
       "2025-09-06": 17
@@ -356,7 +356,7 @@
     "slug": "hk-rpki-clearnet",
     "status": "down",
     "uptime": "98.11%",
-    "uptimeDay": "30.87%",
+    "uptimeDay": "30.92%",
     "uptimeWeek": "77.97%",
     "uptimeMonth": "94.93%",
     "uptimeYear": "98.11%",
@@ -366,7 +366,7 @@
     "timeMonth": 198,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-09-09": 929,
+      "2025-09-09": 927,
       "2025-09-08": 1023,
       "2025-09-07": 254,
       "2025-09-06": 17
