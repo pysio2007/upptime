@@ -313,10 +313,10 @@
     "url": "dn42.pysio.online",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pysio-sg-dn-42",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
@@ -324,7 +324,9 @@
     "timeWeek": 184,
     "timeMonth": 200,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-21": 1
+    }
   },
   {
     "name": "RPKI-Clearnet",
@@ -386,11 +388,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hkcn-2-rpki-dn-42",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.30%",
     "time": 215,
     "timeDay": 185,
     "timeWeek": 175,
@@ -421,7 +423,7 @@
     "uptimeYear": "99.14%",
     "time": 563,
     "timeDay": 535,
-    "timeWeek": 380,
+    "timeWeek": 366,
     "timeMonth": 369,
     "timeYear": 563,
     "dailyMinutesDown": {
@@ -467,7 +469,7 @@
     "uptimeYear": "99.21%",
     "time": 655,
     "timeDay": 31,
-    "timeWeek": 676,
+    "timeWeek": 529,
     "timeMonth": 1005,
     "timeYear": 655,
     "dailyMinutesDown": {
@@ -508,7 +510,7 @@
     "uptimeYear": "99.11%",
     "time": 909,
     "timeDay": 1414,
-    "timeWeek": 1197,
+    "timeWeek": 1134,
     "timeMonth": 1161,
     "timeYear": 909,
     "dailyMinutesDown": {
@@ -551,14 +553,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-mod",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.28%",
     "uptimeMonth": "96.41%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 345,
     "timeDay": 231,
-    "timeWeek": 326,
+    "timeWeek": 312,
     "timeMonth": 366,
     "timeYear": 345,
     "dailyMinutesDown": {
@@ -607,7 +609,7 @@
     "uptimeYear": "99.14%",
     "time": 309,
     "timeDay": 230,
-    "timeWeek": 319,
+    "timeWeek": 214,
     "timeMonth": 250,
     "timeYear": 309,
     "dailyMinutesDown": {
@@ -654,7 +656,7 @@
     "uptimeYear": "99.14%",
     "time": 367,
     "timeDay": 249,
-    "timeWeek": 356,
+    "timeWeek": 320,
     "timeMonth": 438,
     "timeYear": 367,
     "dailyMinutesDown": {
@@ -701,7 +703,7 @@
     "uptimeYear": "98.81%",
     "time": 740,
     "timeDay": 231,
-    "timeWeek": 305,
+    "timeWeek": 221,
     "timeMonth": 245,
     "timeYear": 740,
     "dailyMinutesDown": {
@@ -745,14 +747,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-fingerprints-432",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.30%",
     "uptimeMonth": "96.43%",
-    "uptimeYear": "98.81%",
+    "uptimeYear": "98.82%",
     "time": 370,
     "timeDay": 230,
-    "timeWeek": 219,
+    "timeWeek": 216,
     "timeMonth": 232,
     "timeYear": 370,
     "dailyMinutesDown": {
@@ -804,7 +806,7 @@
     "uptimeYear": "99.14%",
     "time": 356,
     "timeDay": 229,
-    "timeWeek": 258,
+    "timeWeek": 234,
     "timeMonth": 412,
     "timeYear": 356,
     "dailyMinutesDown": {
@@ -853,7 +855,7 @@
     "uptimeYear": "99.16%",
     "time": 285,
     "timeDay": 231,
-    "timeWeek": 195,
+    "timeWeek": 189,
     "timeMonth": 216,
     "timeYear": 285,
     "dailyMinutesDown": {
@@ -898,7 +900,7 @@
     "uptimeYear": "98.88%",
     "time": 572,
     "timeDay": 623,
-    "timeWeek": 713,
+    "timeWeek": 679,
     "timeMonth": 785,
     "timeYear": 572,
     "dailyMinutesDown": {
@@ -945,7 +947,7 @@
     "uptimeYear": "99.15%",
     "time": 229,
     "timeDay": 230,
-    "timeWeek": 244,
+    "timeWeek": 246,
     "timeMonth": 224,
     "timeYear": 229,
     "dailyMinutesDown": {
@@ -991,7 +993,7 @@
     "uptimeYear": "97.54%",
     "time": 232,
     "timeDay": 230,
-    "timeWeek": 189,
+    "timeWeek": 185,
     "timeMonth": 243,
     "timeYear": 232,
     "dailyMinutesDown": {
@@ -1042,7 +1044,7 @@
     "uptimeYear": "99.05%",
     "time": 1346,
     "timeDay": 1165,
-    "timeWeek": 1094,
+    "timeWeek": 1077,
     "timeMonth": 1267,
     "timeYear": 1346,
     "dailyMinutesDown": {
@@ -1088,7 +1090,7 @@
     "uptimeYear": "99.12%",
     "time": 472,
     "timeDay": 5157,
-    "timeWeek": 1440,
+    "timeWeek": 1549,
     "timeMonth": 511,
     "timeYear": 472,
     "dailyMinutesDown": {
@@ -1134,7 +1136,7 @@
     "uptimeYear": "99.14%",
     "time": 881,
     "timeDay": 527,
-    "timeWeek": 443,
+    "timeWeek": 439,
     "timeMonth": 411,
     "timeYear": 881,
     "dailyMinutesDown": {
@@ -1178,7 +1180,7 @@
     "uptimeYear": "98.90%",
     "time": 1024,
     "timeDay": 464,
-    "timeWeek": 395,
+    "timeWeek": 393,
     "timeMonth": 349,
     "timeYear": 1024,
     "dailyMinutesDown": {
