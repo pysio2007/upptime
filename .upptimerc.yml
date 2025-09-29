@@ -25,10 +25,6 @@ sites:
     url: https://dns.pysio.online/
   - name: DoH (China)
     url: https://doh.pysio.online/
-  - name: Pysio-SG-DN42
-    check: "tcp-ping"
-    url: dn42.pysio.online
-    port: 8000
   - name: RPKI-Clearnet
     check: "tcp-ping"
     url: 23.82.99.185
@@ -36,14 +32,6 @@ sites:
   - name: RPKI-DN42
     check: "tcp-ping"
     url: 23.82.99.185
-    port: 8082
-  - name: HKCN2-RPKI
-    check: "tcp-ping"
-    url: 103.231.12.237
-    port: 8282
-  - name: HKCN2-RPKI-DN42
-    check: "tcp-ping"
-    url: 103.231.12.237
     port: 8082
       
   # 新增的MCIM监控站点
