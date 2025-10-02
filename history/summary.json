@@ -29,9 +29,9 @@
     "url": "https://files.pysio.online/Avatar/z0z0r4.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/files.pysio.online.ico",
     "slug": "pysio-home-files",
-    "status": "up",
+    "status": "down",
     "uptime": "98.35%",
-    "uptimeDay": "97.86%",
+    "uptimeDay": "97.83%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "98.35%",
@@ -78,7 +78,7 @@
       "2024-11-21": 223,
       "2024-11-20": 217,
       "2024-11-19": 324,
-      "2024-11-18": 39
+      "2024-11-18": 9
     }
   },
   {
