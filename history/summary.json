@@ -145,11 +145,11 @@
     "url": "http://anycast.ink/",
     "icon": "https://icons.duckduckgo.com/ip3/anycast.ink.ico",
     "slug": "any-cast-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.96%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1338,
     "timeDay": 965,
@@ -157,7 +157,7 @@
     "timeMonth": 1829,
     "timeYear": 1338,
     "dailyMinutesDown": {
-      "2025-10-20": 15,
+      "2025-10-20": 16,
       "2025-07-14": 20
     }
   },
