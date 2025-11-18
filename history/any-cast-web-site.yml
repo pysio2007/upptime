@@ -1,7 +1,7 @@
 url: http://anycast.ink/
-status: up
-code: 200
-responseTime: 888
-lastUpdated: 2025-11-18T12:15:35.084Z
+status: down
+code: 500
+responseTime: 394
+lastUpdated: 2025-11-18T13:16:41.313Z
 startTime: 2025-03-15T14:28:04.383Z
 generator: Upptime <https://github.com/upptime/upptime>
