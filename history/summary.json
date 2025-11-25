@@ -6,9 +6,9 @@
     "slug": "pysio-s-home",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "83.98%",
-    "uptimeWeek": "85.75%",
-    "uptimeMonth": "96.72%",
+    "uptimeDay": "84.45%",
+    "uptimeWeek": "85.81%",
+    "uptimeMonth": "96.74%",
     "uptimeYear": "99.59%",
     "time": 1169,
     "timeDay": 4523,
@@ -16,7 +16,7 @@
     "timeMonth": 3005,
     "timeYear": 1188,
     "dailyMinutesDown": {
-      "2025-11-24": 229,
+      "2025-11-24": 222,
       "2025-11-23": 142,
       "2025-11-22": 199,
       "2025-11-21": 229,
@@ -40,7 +40,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.70%",
+    "uptimeYear": "98.71%",
     "time": 2432,
     "timeDay": 1158,
     "timeWeek": 3033,
@@ -80,8 +80,7 @@
       "2024-12-08": 848,
       "2024-11-28": 210,
       "2024-11-27": 167,
-      "2024-11-26": 248,
-      "2024-11-25": 225
+      "2024-11-26": 248
     }
   },
   {
