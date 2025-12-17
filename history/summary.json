@@ -80,8 +80,7 @@
       "2025-02-05": 18,
       "2025-02-04": 34,
       "2024-12-22": 450,
-      "2024-12-21": 694,
-      "2024-12-17": 39
+      "2024-12-21": 694
     }
   },
   {
@@ -1405,18 +1404,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-file-cdn",
     "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.10%",
+    "uptime": "99.11%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.11%",
     "time": 2115,
     "timeDay": 10248,
     "timeWeek": 9128,
     "timeMonth": 5970,
     "timeYear": 2115,
     "dailyMinutesDown": {
-      "2025-12-16": 47,
+      "2025-12-16": 40,
       "2025-12-15": 18,
       "2025-12-14": 16,
       "2025-12-13": 48,
