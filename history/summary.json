@@ -14,7 +14,7 @@
     "timeDay": 239,
     "timeWeek": 229,
     "timeMonth": 193,
-    "timeYear": 1206,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2025-12-05": 21,
       "2025-11-26": 876,
@@ -48,7 +48,7 @@
     "timeDay": 469,
     "timeWeek": 4277,
     "timeMonth": 4338,
-    "timeYear": 3133,
+    "timeYear": 3139,
     "dailyMinutesDown": {
       "2026-01-08": 59,
       "2026-01-07": 16,
@@ -145,11 +145,11 @@
     "url": "http://anycast.ink/",
     "icon": "https://icons.duckduckgo.com/ip3/anycast.ink.ico",
     "slug": "any-cast-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
     "time": 1473,
     "timeDay": 7602,
@@ -157,7 +157,7 @@
     "timeMonth": 2469,
     "timeYear": 1473,
     "dailyMinutesDown": {
-      "2026-01-11": 26,
+      "2026-01-11": 15,
       "2025-11-18": 122,
       "2025-10-20": 150,
       "2025-07-14": 20
@@ -219,7 +219,7 @@
     "timeDay": 722,
     "timeWeek": 1053,
     "timeMonth": 1092,
-    "timeYear": 1811,
+    "timeYear": 1815,
     "dailyMinutesDown": {
       "2025-12-10": 17,
       "2025-12-05": 21,
