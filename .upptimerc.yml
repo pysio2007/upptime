@@ -26,7 +26,7 @@ sites:
   - name: DoH (China)
     url: https://doh.pysio.online/
   - name: PLEX
-    url: https://plex.pysio.online/
+    url: https://plex.pysio.online/web/index.html#!/
   - name: Immich
     url: https://immich.pysio.online
   - name: JumpServer
