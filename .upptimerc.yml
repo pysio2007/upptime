@@ -25,6 +25,14 @@ sites:
     url: https://dns.pysio.online/
   - name: DoH (China)
     url: https://doh.pysio.online/
+  - name: PLEX
+    url: https://plex.pysio.online/
+  - name: Immich
+    url: https://immich.pysio.online
+  - name: JumpServer
+    url: https://js.pysio.online
+  - name: PysioHome-PVE
+    url: https://pve.pysio.online
   - name: RPKI-Clearnet
     check: "tcp-ping"
     url: 23.82.99.185
