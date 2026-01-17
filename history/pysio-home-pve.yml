@@ -1,7 +1,7 @@
 url: https://pve.pysio.online
-status: up
-code: 200
-responseTime: 10298
-lastUpdated: 2026-01-17T21:56:16.147Z
+status: down
+code: 502
+responseTime: 4000
+lastUpdated: 2026-01-17T22:06:00.787Z
 startTime: 2026-01-13T18:44:45.790Z
 generator: Upptime <https://github.com/upptime/upptime>
