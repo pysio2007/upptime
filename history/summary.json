@@ -339,18 +339,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.pysio.online.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "80.25%",
-    "uptimeDay": "20.46%",
-    "uptimeWeek": "80.25%",
-    "uptimeMonth": "80.25%",
-    "uptimeYear": "80.25%",
+    "uptime": "79.38%",
+    "uptimeDay": "15.99%",
+    "uptimeWeek": "79.38%",
+    "uptimeMonth": "79.38%",
+    "uptimeYear": "79.38%",
     "time": 4560,
     "timeDay": 6117,
     "timeWeek": 4560,
     "timeMonth": 4560,
     "timeYear": 4560,
     "dailyMinutesDown": {
-      "2026-01-17": 1146,
+      "2026-01-17": 1210,
       "2026-01-14": 17
     }
   },
@@ -360,18 +360,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.pysio.online.ico",
     "slug": "immich",
     "status": "down",
-    "uptime": "84.48%",
-    "uptimeDay": "37.73%",
-    "uptimeWeek": "84.48%",
-    "uptimeMonth": "84.48%",
-    "uptimeYear": "84.48%",
+    "uptime": "83.57%",
+    "uptimeDay": "33.26%",
+    "uptimeWeek": "83.57%",
+    "uptimeMonth": "83.57%",
+    "uptimeYear": "83.57%",
     "time": 2175,
     "timeDay": 2951,
     "timeWeek": 2175,
     "timeMonth": 2175,
     "timeYear": 2175,
     "dailyMinutesDown": {
-      "2026-01-17": 897,
+      "2026-01-17": 961,
       "2026-01-14": 17
     }
   },
@@ -381,18 +381,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/js.pysio.online.ico",
     "slug": "jump-server",
     "status": "down",
-    "uptime": "84.78%",
-    "uptimeDay": "37.76%",
-    "uptimeWeek": "84.78%",
-    "uptimeMonth": "84.78%",
-    "uptimeYear": "84.78%",
+    "uptime": "83.86%",
+    "uptimeDay": "33.29%",
+    "uptimeWeek": "83.86%",
+    "uptimeMonth": "83.86%",
+    "uptimeYear": "83.86%",
     "time": 1695,
     "timeDay": 2393,
     "timeWeek": 1695,
     "timeMonth": 1695,
     "timeYear": 1695,
     "dailyMinutesDown": {
-      "2026-01-17": 896
+      "2026-01-17": 961
     }
   },
   {
@@ -400,19 +400,19 @@
     "url": "https://pve.pysio.online",
     "icon": "https://icons.duckduckgo.com/ip3/pve.pysio.online.ico",
     "slug": "pysio-home-pve",
-    "status": "down",
-    "uptime": "85.09%",
-    "uptimeDay": "40.20%",
-    "uptimeWeek": "85.09%",
-    "uptimeMonth": "85.09%",
-    "uptimeYear": "85.09%",
-    "time": 4782,
-    "timeDay": 5733,
-    "timeWeek": 4782,
-    "timeMonth": 4782,
-    "timeYear": 4782,
+    "status": "up",
+    "uptime": "84.18%",
+    "uptimeDay": "35.77%",
+    "uptimeWeek": "84.18%",
+    "uptimeMonth": "84.18%",
+    "uptimeYear": "84.18%",
+    "time": 5088,
+    "timeDay": 6084,
+    "timeWeek": 5088,
+    "timeMonth": 5088,
+    "timeYear": 5088,
     "dailyMinutesDown": {
-      "2026-01-17": 861,
+      "2026-01-17": 925,
       "2026-01-14": 17
     }
   },
@@ -466,7 +466,7 @@
     "time": 490,
     "timeDay": 443,
     "timeWeek": 396,
-    "timeMonth": 352,
+    "timeMonth": 357,
     "timeYear": 490,
     "dailyMinutesDown": {
       "2026-01-14": 16,
@@ -536,7 +536,7 @@
     "time": 912,
     "timeDay": 1351,
     "timeWeek": 2007,
-    "timeMonth": 1383,
+    "timeMonth": 1407,
     "timeYear": 912,
     "dailyMinutesDown": {
       "2026-01-14": 16,
@@ -675,7 +675,7 @@
     "time": 545,
     "timeDay": 573,
     "timeWeek": 397,
-    "timeMonth": 696,
+    "timeMonth": 700,
     "timeYear": 545,
     "dailyMinutesDown": {
       "2026-01-16": 119,
@@ -758,7 +758,7 @@
     "time": 375,
     "timeDay": 257,
     "timeWeek": 421,
-    "timeMonth": 574,
+    "timeMonth": 579,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2026-01-16": 110,
@@ -834,7 +834,7 @@
     "time": 667,
     "timeDay": 825,
     "timeWeek": 1910,
-    "timeMonth": 1321,
+    "timeMonth": 1330,
     "timeYear": 667,
     "dailyMinutesDown": {
       "2026-01-16": 79,
@@ -910,7 +910,7 @@
     "time": 1280,
     "timeDay": 506,
     "timeWeek": 4456,
-    "timeMonth": 2547,
+    "timeMonth": 2575,
     "timeYear": 1280,
     "dailyMinutesDown": {
       "2026-01-16": 76,
@@ -989,7 +989,7 @@
     "time": 1128,
     "timeDay": 475,
     "timeWeek": 4228,
-    "timeMonth": 2635,
+    "timeMonth": 2665,
     "timeYear": 1128,
     "dailyMinutesDown": {
       "2026-01-16": 59,
@@ -1066,7 +1066,7 @@
     "time": 417,
     "timeDay": 495,
     "timeWeek": 560,
-    "timeMonth": 522,
+    "timeMonth": 523,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2026-01-17": 19,
@@ -1134,7 +1134,7 @@
     "time": 549,
     "timeDay": 560,
     "timeWeek": 271,
-    "timeMonth": 617,
+    "timeMonth": 622,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2026-01-16": 53,
@@ -1203,7 +1203,7 @@
     "time": 772,
     "timeDay": 1517,
     "timeWeek": 1114,
-    "timeMonth": 1206,
+    "timeMonth": 1208,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2026-01-16": 49,
@@ -1272,7 +1272,7 @@
     "time": 590,
     "timeDay": 463,
     "timeWeek": 256,
-    "timeMonth": 884,
+    "timeMonth": 894,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2026-01-16": 16,
@@ -1410,7 +1410,7 @@
     "time": 1861,
     "timeDay": 1780,
     "timeWeek": 4383,
-    "timeMonth": 3236,
+    "timeMonth": 3260,
     "timeYear": 1861,
     "dailyMinutesDown": {
       "2026-01-09": 807,
@@ -1476,7 +1476,7 @@
     "time": 1264,
     "timeDay": 565,
     "timeWeek": 3336,
-    "timeMonth": 2274,
+    "timeMonth": 2300,
     "timeYear": 1264,
     "dailyMinutesDown": {
       "2026-01-09": 807,
@@ -1543,7 +1543,7 @@
     "time": 2883,
     "timeDay": 708,
     "timeWeek": 504,
-    "timeMonth": 2613,
+    "timeMonth": 2640,
     "timeYear": 2883,
     "dailyMinutesDown": {
       "2026-01-09": 844,
@@ -1611,7 +1611,7 @@
     "time": 2128,
     "timeDay": 614,
     "timeWeek": 427,
-    "timeMonth": 1985,
+    "timeMonth": 2007,
     "timeYear": 2128,
     "dailyMinutesDown": {
       "2026-01-09": 844,
