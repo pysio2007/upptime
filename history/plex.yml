@@ -1,7 +1,7 @@
 url: https://plex.pysio.online/web/index.html#!/
-status: down
-code: 502
-responseTime: 4713
-lastUpdated: 2026-03-30T09:22:43.914Z
+status: up
+code: 200
+responseTime: 3294
+lastUpdated: 2026-03-30T09:56:15.255Z
 startTime: 2026-01-13T18:44:37.444Z
 generator: Upptime <https://github.com/upptime/upptime>
