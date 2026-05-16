@@ -1,7 +1,7 @@
 url: https://mod.mcimirror.top/curseforge/v1/mods/search?gameId=432&pageSize=50
-status: up
-code: 200
-responseTime: 8883
-lastUpdated: 2026-05-15T23:24:27.134Z
+status: down
+code: 502
+responseTime: 941
+lastUpdated: 2026-05-16T07:28:15.592Z
 startTime: 2025-01-30T06:07:53.690Z
 generator: Upptime <https://github.com/upptime/upptime>
