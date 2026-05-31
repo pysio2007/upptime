@@ -800,7 +800,7 @@
     "status": "up",
     "uptime": "95.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "35.57%",
+    "uptimeWeek": "35.64%",
     "uptimeMonth": "60.23%",
     "uptimeYear": "94.22%",
     "time": 2195,
@@ -1613,13 +1613,13 @@
     "url": "https://mod.mcimirror.top/modrinth/v2/project/sodium-extra/version",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-versions",
-    "status": "up",
+    "status": "down",
     "uptime": "97.61%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "92.02%",
-    "uptimeMonth": "93.67%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "93.66%",
     "uptimeYear": "97.10%",
-    "time": 1970,
+    "time": 1971,
     "timeDay": 8262,
     "timeWeek": 7907,
     "timeMonth": 9749,
@@ -1705,7 +1705,7 @@
       "2026-05-25": 95,
       "2026-05-29": 618,
       "2026-05-30": 63,
-      "2026-05-31": 28
+      "2026-05-31": 30
     }
   },
   {
@@ -2000,13 +2000,13 @@
     "url": "https://mod.mcimirror.top/modrinth/v2/version_files/update",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-files-update",
-    "status": "up",
+    "status": "down",
     "uptime": "97.82%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "91.51%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "91.49%",
     "uptimeMonth": "93.11%",
     "uptimeYear": "97.23%",
-    "time": 1259,
+    "time": 1260,
     "timeDay": 308,
     "timeWeek": 407,
     "timeMonth": 1722,
@@ -2089,7 +2089,7 @@
       "2026-05-25": 233,
       "2026-05-29": 563,
       "2026-05-30": 33,
-      "2026-05-31": 27
+      "2026-05-31": 29
     }
   },
   {
@@ -2098,7 +2098,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-file-cdn",
     "status": "down",
-    "uptime": "87.35%",
+    "uptime": "87.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2170,7 +2170,7 @@
       "2026-04-02": 16,
       "2026-04-04": 17,
       "2026-04-07": 38,
-      "2026-05-31": 1416,
+      "2026-05-31": 1422,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -2233,13 +2233,13 @@
     "slug": "mcim-curseforge-file-cdn",
     "status": "down",
     "uptime": "91.20%",
-    "uptimeDay": "87.94%",
-    "uptimeWeek": "87.44%",
+    "uptimeDay": "87.51%",
+    "uptimeWeek": "87.38%",
     "uptimeMonth": "60.25%",
     "uptimeYear": "88.56%",
     "time": 4045,
-    "timeDay": 35918,
-    "timeWeek": 35921,
+    "timeDay": 36091,
+    "timeWeek": 35944,
     "timeMonth": 35184,
     "timeYear": 4617,
     "dailyMinutesDown": {
@@ -2342,7 +2342,7 @@
       "2026-05-27": 75,
       "2026-05-29": 659,
       "2026-05-30": 107,
-      "2026-05-31": 174
+      "2026-05-31": 180
     }
   }
 ]
