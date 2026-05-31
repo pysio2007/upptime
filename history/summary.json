@@ -404,11 +404,11 @@
     "url": "https://immich.pysio.online",
     "icon": "https://icons.duckduckgo.com/ip3/immich.pysio.online.ico",
     "slug": "immich",
-    "status": "up",
+    "status": "down",
     "uptime": "92.12%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "92.79%",
-    "uptimeMonth": "86.79%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "92.75%",
+    "uptimeMonth": "86.78%",
     "uptimeYear": "92.12%",
     "time": 1889,
     "timeDay": 8228,
@@ -471,7 +471,7 @@
       "2026-05-24": 74,
       "2026-05-29": 639,
       "2026-05-30": 60,
-      "2026-05-31": 29
+      "2026-05-31": 33
     }
   },
   {
@@ -800,7 +800,7 @@
     "status": "up",
     "uptime": "95.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "35.14%",
+    "uptimeWeek": "35.38%",
     "uptimeMonth": "60.23%",
     "uptimeYear": "94.22%",
     "time": 2185,
@@ -1713,13 +1713,13 @@
     "url": "https://mod.mcimirror.top/modrinth/v2/version/3JJvf9Kn",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-single-version",
-    "status": "up",
+    "status": "down",
     "uptime": "97.91%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "92.89%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "92.85%",
     "uptimeMonth": "93.75%",
     "uptimeYear": "97.33%",
-    "time": 782,
+    "time": 783,
     "timeDay": 517,
     "timeWeek": 842,
     "timeMonth": 2789,
@@ -1802,7 +1802,7 @@
       "2026-05-25": 43,
       "2026-05-29": 613,
       "2026-05-30": 34,
-      "2026-05-31": 27
+      "2026-05-31": 30
     }
   },
   {
@@ -2170,7 +2170,7 @@
       "2026-04-02": 16,
       "2026-04-04": 17,
       "2026-04-07": 38,
-      "2026-05-31": 1372,
+      "2026-05-31": 1396,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -2231,17 +2231,17 @@
     "url": "https://mod.mcimirror.top/files/5106/178/jei-1.19.2-forge-11.6.0.1019.jar",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-file-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "91.20%",
-    "uptimeDay": "89.61%",
-    "uptimeWeek": "87.68%",
-    "uptimeMonth": "60.20%",
-    "uptimeYear": "88.57%",
-    "time": 4001,
-    "timeDay": 35612,
-    "timeWeek": 35870,
-    "timeMonth": 35150,
-    "timeYear": 4559,
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "87.46%",
+    "uptimeMonth": "60.21%",
+    "uptimeYear": "88.56%",
+    "time": 4045,
+    "timeDay": 35918,
+    "timeWeek": 35921,
+    "timeMonth": 35184,
+    "timeYear": 4612,
     "dailyMinutesDown": {
       "2025-06-29": 84,
       "2025-07-03": 86,
@@ -2342,7 +2342,7 @@
       "2026-05-27": 75,
       "2026-05-29": 659,
       "2026-05-30": 107,
-      "2026-05-31": 150
+      "2026-05-31": 172
     }
   }
 ]
