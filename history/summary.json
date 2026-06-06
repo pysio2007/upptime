@@ -517,11 +517,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pve.pysio.online.ico",
     "slug": "pysio-home-pve",
     "status": "up",
-    "uptime": "93.09%",
+    "uptime": "93.10%",
     "uptimeDay": "94.04%",
     "uptimeWeek": "98.30%",
     "uptimeMonth": "86.82%",
-    "uptimeYear": "93.09%",
+    "uptimeYear": "93.10%",
     "time": 1976,
     "timeDay": 2204,
     "timeWeek": 1993,
@@ -2043,10 +2043,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-files-update",
     "status": "up",
-    "uptime": "97.83%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "93.01%",
+    "uptime": "97.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "93.05%",
     "uptimeYear": "97.22%",
     "time": 1263,
     "timeDay": 262,
@@ -2132,9 +2132,7 @@
       "2026-05-29": 563,
       "2026-05-30": 33,
       "2026-05-31": 47,
-      "2026-06-01": 8,
-      "2026-06-06": 6,
-      "2026-06-05": 8
+      "2026-06-01": 8
     }
   },
   {
@@ -2215,7 +2213,7 @@
       "2026-04-02": 16,
       "2026-04-04": 17,
       "2026-04-07": 38,
-      "2026-06-06": 17,
+      "2026-06-06": 62,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -2284,9 +2282,9 @@
     "slug": "mcim-curseforge-file-cdn",
     "status": "up",
     "uptime": "91.25%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "94.32%",
-    "uptimeMonth": "76.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.46%",
+    "uptimeMonth": "76.25%",
     "uptimeYear": "88.51%",
     "time": 4386,
     "timeDay": 35368,
@@ -2396,8 +2394,7 @@
       "2026-05-31": 198,
       "2026-06-01": 97,
       "2026-06-02": 77,
-      "2026-06-04": 79,
-      "2026-06-06": 14
+      "2026-06-04": 79
     }
   }
 ]
