@@ -103,10 +103,10 @@
     "url": "https://bitwarden.pysio.online/",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.pysio.online.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "97.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.34%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "98.32%",
     "uptimeMonth": "77.22%",
     "uptimeYear": "96.68%",
     "time": 427,
@@ -164,7 +164,8 @@
       "2026-06-06": 64,
       "2026-06-05": 96,
       "2026-06-07": 181,
-      "2026-06-11": 67
+      "2026-06-11": 67,
+      "2026-06-14": 2
     }
   },
   {
@@ -331,10 +332,10 @@
     "url": "https://plex.pysio.online/web/index.html#!/",
     "icon": "https://icons.duckduckgo.com/ip3/plex.pysio.online.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "92.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.63%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "97.61%",
     "uptimeMonth": "86.52%",
     "uptimeYear": "92.22%",
     "time": 4477,
@@ -407,7 +408,8 @@
       "2026-06-05": 91,
       "2026-06-07": 223,
       "2026-06-10": 76,
-      "2026-06-11": 67
+      "2026-06-11": 67,
+      "2026-06-14": 2
     }
   },
   {
@@ -415,12 +417,12 @@
     "url": "https://immich.pysio.online",
     "icon": "https://icons.duckduckgo.com/ip3/immich.pysio.online.ico",
     "slug": "immich",
-    "status": "up",
-    "uptime": "92.38%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "92.95%",
+    "status": "down",
+    "uptime": "92.39%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "92.93%",
     "uptimeMonth": "85.59%",
-    "uptimeYear": "92.38%",
+    "uptimeYear": "92.39%",
     "time": 1863,
     "timeDay": 1479,
     "timeWeek": 1867,
@@ -493,7 +495,7 @@
       "2026-06-11": 106,
       "2026-06-12": 64,
       "2026-06-13": 88,
-      "2026-06-14": 82
+      "2026-06-14": 84
     }
   },
   {
@@ -528,12 +530,12 @@
     "url": "https://pve.pysio.online",
     "icon": "https://icons.duckduckgo.com/ip3/pve.pysio.online.ico",
     "slug": "pysio-home-pve",
-    "status": "up",
-    "uptime": "93.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.18%",
-    "uptimeMonth": "86.13%",
-    "uptimeYear": "93.18%",
+    "status": "down",
+    "uptime": "93.19%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "94.17%",
+    "uptimeMonth": "86.12%",
+    "uptimeYear": "93.19%",
     "time": 1954,
     "timeDay": 1187,
     "timeWeek": 1701,
@@ -599,7 +601,8 @@
       "2026-06-10": 76,
       "2026-06-11": 173,
       "2026-06-12": 64,
-      "2026-06-13": 88
+      "2026-06-13": 88,
+      "2026-06-14": 2
     }
   },
   {
@@ -643,10 +646,10 @@
     "url": "https://mod.mcimirror.top",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-root",
-    "status": "up",
+    "status": "down",
     "uptime": "96.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.13%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "98.12%",
     "uptimeMonth": "76.76%",
     "uptimeYear": "95.86%",
     "time": 569,
@@ -739,7 +742,8 @@
       "2026-06-06": 65,
       "2026-06-05": 76,
       "2026-06-07": 113,
-      "2026-06-10": 76
+      "2026-06-10": 76,
+      "2026-06-14": 1
     }
   },
   {
@@ -1653,7 +1657,7 @@
     "slug": "mcim-modrinth-versions",
     "status": "up",
     "uptime": "97.77%",
-    "uptimeDay": "96.59%",
+    "uptimeDay": "97.15%",
     "uptimeWeek": "95.89%",
     "uptimeMonth": "92.95%",
     "uptimeYear": "97.01%",
@@ -1970,7 +1974,7 @@
     "slug": "mcim-modrinth-single-file-update",
     "status": "up",
     "uptime": "97.82%",
-    "uptimeDay": "96.60%",
+    "uptimeDay": "97.16%",
     "uptimeWeek": "97.80%",
     "uptimeMonth": "93.35%",
     "uptimeYear": "97.15%",
@@ -2175,8 +2179,8 @@
     "status": "up",
     "uptime": "85.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "53.14%",
-    "uptimeMonth": "10.32%",
+    "uptimeWeek": "54.41%",
+    "uptimeMonth": "10.61%",
     "uptimeYear": "80.57%",
     "time": 2564,
     "timeDay": 1815,
@@ -2328,7 +2332,7 @@
     "time": 4690,
     "timeDay": 846,
     "timeWeek": 16958,
-    "timeMonth": 31669,
+    "timeMonth": 31590,
     "timeYear": 5497,
     "dailyMinutesDown": {
       "2025-06-29": 84,
