@@ -751,16 +751,16 @@
     "url": "https://mod.mcimirror.top/docs",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "97.81%",
-    "uptimeDay": "91.75%",
-    "uptimeWeek": "94.03%",
-    "uptimeMonth": "75.51%",
-    "uptimeYear": "97.00%",
-    "time": 1097,
-    "timeDay": 2387,
-    "timeWeek": 1497,
-    "timeMonth": 1300,
+    "uptimeDay": "89.77%",
+    "uptimeWeek": "93.75%",
+    "uptimeMonth": "75.44%",
+    "uptimeYear": "96.99%",
+    "time": 1098,
+    "timeDay": 1875,
+    "timeWeek": 1457,
+    "timeMonth": 1291,
     "timeYear": 1243,
     "dailyMinutesDown": {
       "2025-11-12": 18,
@@ -824,7 +824,7 @@
       "2026-06-11": 104,
       "2026-06-12": 106,
       "2026-06-13": 4,
-      "2026-06-14": 119
+      "2026-06-14": 147
     }
   },
   {
@@ -2178,17 +2178,17 @@
     "url": "https://mod.mcimirror.top/data/P7dR8mSH/versions/Y0cpssyN/fabric-api-0.100.6%2B1.21.jar",
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-file-cdn",
-    "status": "down",
-    "uptime": "85.74%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "56.79%",
-    "uptimeMonth": "11.16%",
+    "status": "up",
+    "uptime": "85.73%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "56.81%",
+    "uptimeMonth": "11.17%",
     "uptimeYear": "80.57%",
-    "time": 2564,
-    "timeDay": 1815,
-    "timeWeek": 1023,
-    "timeMonth": 1023,
-    "timeYear": 2934,
+    "time": 2562,
+    "timeDay": 1460,
+    "timeWeek": 1033,
+    "timeMonth": 1033,
+    "timeYear": 2931,
     "dailyMinutesDown": {
       "2025-06-29": 84,
       "2025-07-03": 86,
@@ -2318,7 +2318,7 @@
       "2026-06-11": 58,
       "2026-06-13": 5,
       "2026-06-12": 22,
-      "2026-06-14": 2
+      "2026-06-14": 30
     }
   },
   {
