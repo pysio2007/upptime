@@ -1,7 +1,7 @@
 url: https://blogapi.pysio.online/random_image
-status: down
-code: 500
-responseTime: 30714
-lastUpdated: 2026-07-03T07:44:46.199Z
+status: up
+code: 200
+responseTime: 9683
+lastUpdated: 2026-07-03T10:21:12.719Z
 startTime: 2024-11-06T21:29:37.327Z
 generator: Upptime <https://github.com/upptime/upptime>
