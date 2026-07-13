@@ -101,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.pysio.online.ico",
     "slug": "bitwarden",
     "status": "down",
-    "uptime": "97.39%",
-    "uptimeDay": "92.54%",
-    "uptimeWeek": "97.84%",
-    "uptimeMonth": "96.59%",
-    "uptimeYear": "96.40%",
+    "uptime": "97.38%",
+    "uptimeDay": "87.39%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "96.42%",
+    "uptimeYear": "96.38%",
     "time": 433,
     "timeDay": 420,
     "timeWeek": 594,
@@ -174,7 +174,7 @@
       "2026-06-24": 110,
       "2026-07-01": 222,
       "2026-07-11": 110,
-      "2026-07-13": 107
+      "2026-07-13": 182
     }
   },
   {
@@ -244,11 +244,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blogapi.pysio.online.ico",
     "slug": "random-image-api",
     "status": "down",
-    "uptime": "98.30%",
+    "uptime": "98.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.42%",
-    "uptimeYear": "97.35%",
+    "uptimeMonth": "68.25%",
+    "uptimeYear": "97.33%",
     "time": 1840,
     "timeDay": 0,
     "timeWeek": 0,
@@ -261,7 +261,7 @@
       "2026-03-18": 32,
       "2026-04-22": 33,
       "2026-07-03": 746,
-      "2026-07-13": 126,
+      "2026-07-13": 201,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -349,11 +349,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.pysio.online.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "92.90%",
-    "uptimeDay": "93.52%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "96.72%",
-    "uptimeYear": "92.90%",
+    "uptime": "92.87%",
+    "uptimeDay": "88.37%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "96.55%",
+    "uptimeYear": "92.87%",
     "time": 4599,
     "timeDay": 4201,
     "timeWeek": 4549,
@@ -437,7 +437,7 @@
       "2026-06-30": 17,
       "2026-07-07": 54,
       "2026-07-11": 105,
-      "2026-07-13": 93
+      "2026-07-13": 168
     }
   },
   {
@@ -446,11 +446,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.pysio.online.ico",
     "slug": "immich",
     "status": "down",
-    "uptime": "93.11%",
-    "uptimeDay": "93.85%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "96.77%",
-    "uptimeYear": "93.11%",
+    "uptime": "93.08%",
+    "uptimeDay": "88.70%",
+    "uptimeWeek": "97.39%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "93.08%",
     "time": 1833,
     "timeDay": 872,
     "timeWeek": 1082,
@@ -534,7 +534,7 @@
       "2026-06-24": 100,
       "2026-07-01": 203,
       "2026-07-11": 100,
-      "2026-07-13": 89
+      "2026-07-13": 163
     }
   },
   {
@@ -570,11 +570,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pve.pysio.online.ico",
     "slug": "pysio-home-pve",
     "status": "down",
-    "uptime": "93.76%",
-    "uptimeDay": "94.19%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "96.81%",
-    "uptimeYear": "93.76%",
+    "uptime": "93.73%",
+    "uptimeDay": "89.04%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "96.64%",
+    "uptimeYear": "93.73%",
     "time": 1930,
     "timeDay": 1454,
     "timeWeek": 1165,
@@ -652,7 +652,7 @@
       "2026-07-01": 193,
       "2026-07-04": 88,
       "2026-07-11": 96,
-      "2026-07-13": 84
+      "2026-07-13": 158
     }
   },
   {
@@ -697,11 +697,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-root",
     "status": "down",
-    "uptime": "96.92%",
-    "uptimeDay": "94.52%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "97.54%",
-    "uptimeYear": "95.66%",
+    "uptime": "96.91%",
+    "uptimeDay": "89.37%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "97.37%",
+    "uptimeYear": "95.64%",
     "time": 647,
     "timeDay": 750,
     "timeWeek": 1701,
@@ -803,7 +803,7 @@
       "2026-06-24": 91,
       "2026-07-01": 183,
       "2026-07-11": 153,
-      "2026-07-13": 79
+      "2026-07-13": 153
     }
   },
   {
@@ -812,11 +812,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-docs",
     "status": "down",
-    "uptime": "98.08%",
-    "uptimeDay": "94.86%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "97.22%",
+    "uptime": "98.07%",
+    "uptimeDay": "89.71%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "97.21%",
     "time": 1079,
     "timeDay": 254,
     "timeWeek": 2217,
@@ -880,7 +880,7 @@
       "2026-06-24": 86,
       "2026-07-01": 173,
       "2026-07-11": 148,
-      "2026-07-13": 74
+      "2026-07-13": 148
     }
   },
   {
@@ -889,11 +889,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-search",
     "status": "down",
-    "uptime": "95.72%",
+    "uptime": "95.71%",
     "uptimeDay": "40.57%",
-    "uptimeWeek": "85.12%",
-    "uptimeMonth": "94.85%",
-    "uptimeYear": "93.80%",
+    "uptimeWeek": "84.38%",
+    "uptimeMonth": "94.68%",
+    "uptimeYear": "93.79%",
     "time": 2998,
     "timeDay": 22267,
     "timeWeek": 14700,
@@ -997,7 +997,7 @@
       "2026-07-01": 165,
       "2026-07-11": 517,
       "2026-07-12": 856,
-      "2026-07-13": 127
+      "2026-07-13": 201
     }
   },
   {
@@ -1006,11 +1006,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-mod",
     "status": "down",
-    "uptime": "98.25%",
-    "uptimeDay": "95.52%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "97.47%",
+    "uptime": "98.24%",
+    "uptimeDay": "90.37%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "97.45%",
     "time": 1174,
     "timeDay": 1875,
     "timeWeek": 2719,
@@ -1082,7 +1082,7 @@
       "2026-06-24": 76,
       "2026-07-01": 155,
       "2026-07-11": 138,
-      "2026-07-13": 64
+      "2026-07-13": 139
     }
   },
   {
@@ -1092,10 +1092,10 @@
     "slug": "mcim-curseforge-single-file",
     "status": "down",
     "uptime": "98.21%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "97.41%",
+    "uptimeDay": "90.70%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "97.40%",
     "time": 627,
     "timeDay": 630,
     "timeWeek": 1651,
@@ -1176,7 +1176,7 @@
       "2026-06-24": 72,
       "2026-07-01": 145,
       "2026-07-11": 133,
-      "2026-07-13": 60
+      "2026-07-13": 134
     }
   },
   {
@@ -1185,11 +1185,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-files",
     "status": "down",
-    "uptime": "98.16%",
-    "uptimeDay": "96.19%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "97.33%",
+    "uptime": "98.15%",
+    "uptimeDay": "91.04%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "97.32%",
     "time": 1321,
     "timeDay": 2833,
     "timeWeek": 3692,
@@ -1272,7 +1272,7 @@
       "2026-06-24": 67,
       "2026-07-01": 135,
       "2026-07-11": 127,
-      "2026-07-13": 55
+      "2026-07-13": 129
     }
   },
   {
@@ -1281,11 +1281,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-fingerprints",
     "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "98.41%",
-    "uptimeYear": "97.32%",
+    "uptime": "98.14%",
+    "uptimeDay": "91.37%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "97.31%",
     "time": 1673,
     "timeDay": 673,
     "timeWeek": 970,
@@ -1365,7 +1365,7 @@
       "2026-06-24": 62,
       "2026-07-01": 125,
       "2026-07-11": 122,
-      "2026-07-13": 50
+      "2026-07-13": 124
     }
   },
   {
@@ -1374,11 +1374,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-fingerprints-432",
     "status": "down",
-    "uptime": "98.04%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "97.16%",
+    "uptime": "98.03%",
+    "uptimeDay": "91.71%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "97.14%",
     "time": 1493,
     "timeDay": 611,
     "timeWeek": 1028,
@@ -1467,7 +1467,7 @@
       "2026-06-24": 57,
       "2026-07-01": 115,
       "2026-07-11": 117,
-      "2026-07-13": 45
+      "2026-07-13": 119
     }
   },
   {
@@ -1476,11 +1476,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-search",
     "status": "down",
-    "uptime": "96.93%",
+    "uptime": "96.92%",
     "uptimeDay": "40.69%",
-    "uptimeWeek": "85.46%",
-    "uptimeMonth": "95.76%",
-    "uptimeYear": "95.66%",
+    "uptimeWeek": "84.72%",
+    "uptimeMonth": "95.59%",
+    "uptimeYear": "95.64%",
     "time": 782,
     "timeDay": 20776,
     "timeWeek": 10017,
@@ -1580,7 +1580,7 @@
       "2026-07-01": 107,
       "2026-07-11": 484,
       "2026-07-12": 854,
-      "2026-07-13": 127
+      "2026-07-13": 202
     }
   },
   {
@@ -1589,11 +1589,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-project",
     "status": "down",
-    "uptime": "97.99%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "97.08%",
+    "uptime": "97.98%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "97.07%",
     "time": 817,
     "timeDay": 740,
     "timeWeek": 1731,
@@ -1685,7 +1685,7 @@
       "2026-06-24": 47,
       "2026-07-01": 97,
       "2026-07-11": 107,
-      "2026-07-13": 36
+      "2026-07-13": 110
     }
   },
   {
@@ -1694,11 +1694,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-versions",
     "status": "down",
-    "uptime": "97.95%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "97.03%",
+    "uptime": "97.94%",
+    "uptimeDay": "92.71%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "97.02%",
     "time": 2457,
     "timeDay": 10816,
     "timeWeek": 9944,
@@ -1790,7 +1790,7 @@
       "2026-06-24": 43,
       "2026-07-01": 87,
       "2026-07-11": 102,
-      "2026-07-13": 31
+      "2026-07-13": 105
     }
   },
   {
@@ -1799,11 +1799,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-single-version",
     "status": "down",
-    "uptime": "98.10%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "97.25%",
+    "uptime": "98.09%",
+    "uptimeDay": "93.04%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "97.23%",
     "time": 776,
     "timeDay": 221,
     "timeWeek": 1509,
@@ -1894,7 +1894,7 @@
       "2026-06-24": 38,
       "2026-07-01": 77,
       "2026-07-11": 97,
-      "2026-07-13": 26
+      "2026-07-13": 100
     }
   },
   {
@@ -1903,11 +1903,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-hash",
     "status": "down",
-    "uptime": "97.31%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "97.29%",
+    "uptime": "97.30%",
+    "uptimeDay": "93.37%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "97.27%",
     "time": 735,
     "timeDay": 294,
     "timeWeek": 1465,
@@ -1999,7 +1999,7 @@
       "2026-06-24": 33,
       "2026-07-01": 67,
       "2026-07-11": 91,
-      "2026-07-13": 21
+      "2026-07-13": 95
     }
   },
   {
@@ -2008,11 +2008,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-single-file-update",
     "status": "down",
-    "uptime": "97.96%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "97.09%",
+    "uptime": "97.95%",
+    "uptimeDay": "93.71%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "97.07%",
     "time": 2593,
     "timeDay": 3585,
     "timeWeek": 4454,
@@ -2107,7 +2107,7 @@
       "2026-06-24": 28,
       "2026-07-01": 59,
       "2026-07-11": 86,
-      "2026-07-13": 16
+      "2026-07-13": 91
     }
   },
   {
@@ -2116,11 +2116,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-files-update",
     "status": "down",
-    "uptime": "98.02%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "97.13%",
+    "uptime": "98.01%",
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "97.12%",
     "time": 1196,
     "timeDay": 230,
     "timeWeek": 941,
@@ -2210,7 +2210,7 @@
       "2026-06-24": 23,
       "2026-07-01": 35,
       "2026-07-11": 80,
-      "2026-07-13": 12
+      "2026-07-13": 86
     }
   },
   {
@@ -2219,11 +2219,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-modrinth-file-cdn",
     "status": "down",
-    "uptime": "86.46%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "80.54%",
+    "uptime": "86.45%",
+    "uptimeDay": "94.38%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "80.53%",
     "time": 2579,
     "timeDay": 341,
     "timeWeek": 1583,
@@ -2363,7 +2363,7 @@
       "2026-06-24": 19,
       "2026-07-01": 30,
       "2026-07-11": 76,
-      "2026-07-13": 7
+      "2026-07-13": 81
     }
   },
   {
@@ -2372,11 +2372,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mod.mcimirror.top.ico",
     "slug": "mcim-curseforge-file-cdn",
     "status": "down",
-    "uptime": "91.79%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "88.43%",
+    "uptime": "91.78%",
+    "uptimeDay": "94.71%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "88.41%",
     "time": 4611,
     "timeDay": 296,
     "timeWeek": 1603,
@@ -2495,7 +2495,7 @@
       "2026-06-21": 7,
       "2026-07-01": 25,
       "2026-07-11": 56,
-      "2026-07-13": 2
+      "2026-07-13": 76
     }
   }
 ]
