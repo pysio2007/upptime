@@ -35,11 +35,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.pysio.online.ico",
     "slug": "pysio-home-files",
     "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "63.78%",
-    "uptimeWeek": "94.83%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "99.56%",
+    "uptime": "99.08%",
+    "uptimeDay": "57.28%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "99.54%",
     "time": 2569,
     "timeDay": 459,
     "timeWeek": 343,
@@ -70,7 +70,7 @@
       "2026-02-12": 19,
       "2026-03-30": 23,
       "2026-04-09": 30,
-      "2026-07-30": 522
+      "2026-07-30": 615
     }
   },
   {
@@ -81,7 +81,7 @@
     "status": "up",
     "uptime": "98.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.75%",
+    "uptimeWeek": "81.68%",
     "uptimeMonth": "69.21%",
     "uptimeYear": "97.41%",
     "time": 1844,
@@ -224,7 +224,7 @@
     "status": "up",
     "uptime": "97.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.75%",
+    "uptimeWeek": "81.68%",
     "uptimeMonth": "69.21%",
     "uptimeYear": "97.35%",
     "time": 4297,
@@ -264,17 +264,17 @@
     "url": "https://blogapi.pysio.online/random_image",
     "icon": "https://icons.duckduckgo.com/ip3/blogapi.pysio.online.ico",
     "slug": "random-image-api",
-    "status": "down",
-    "uptime": "96.46%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "80.71%",
-    "uptimeMonth": "29.29%",
-    "uptimeYear": "94.08%",
-    "time": 2225,
-    "timeDay": 10649,
-    "timeWeek": 5762,
-    "timeMonth": 12569,
-    "timeYear": 2094,
+    "status": "up",
+    "uptime": "96.45%",
+    "uptimeDay": "93.49%",
+    "uptimeWeek": "80.75%",
+    "uptimeMonth": "29.08%",
+    "uptimeYear": "94.07%",
+    "time": 2265,
+    "timeDay": 13773,
+    "timeWeek": 7188,
+    "timeMonth": 12879,
+    "timeYear": 2142,
     "dailyMinutesDown": {
       "2025-10-27": 16,
       "2025-12-05": 21,
@@ -303,7 +303,7 @@
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
-      "2026-07-30": 4
+      "2026-07-30": 94
     }
   },
   {
@@ -312,11 +312,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/minio.pysio.online.ico",
     "slug": "minio",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.88%",
+    "uptimeDay": "93.34%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.97%",
     "time": 364,
     "timeDay": 9767,
     "timeWeek": 2576,
@@ -325,7 +325,7 @@
     "dailyMinutesDown": {
       "2025-12-05": 21,
       "2026-01-05": 19,
-      "2026-07-30": 2
+      "2026-07-30": 96
     }
   },
   {
