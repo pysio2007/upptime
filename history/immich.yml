@@ -1,7 +1,7 @@
 url: https://immich.pysio.online
-status: up
-code: 200
-responseTime: 7653
-lastUpdated: 2026-08-04T00:12:11.541Z
+status: down
+code: 502
+responseTime: 4732
+lastUpdated: 2026-08-04T16:30:07.941Z
 startTime: 2026-01-13T18:44:43.076Z
 generator: Upptime <https://github.com/upptime/upptime>
